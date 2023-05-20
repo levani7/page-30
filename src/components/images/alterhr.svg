@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189.592" height="32.027" viewBox="0 0 189.592 32.027">
+  <g id="Group_1176" data-name="Group 1176" transform="translate(-2176 143)">
+    <g id="Group_1124" data-name="Group 1124" transform="translate(2176 -143)">
+      <path id="Path_77" d="M84.616,12.73a2.881,2.881,0,0,0-.861-.842,2.935,2.935,0,0,0-.763-.361,2.718,2.718,0,0,0-2.769.753L69.094,23.4l4.038,4.038L79.375,21.2v14.6a1.942,1.942,0,0,1-1.937,1.937H65.865L60.16,43.44H79.069A6.044,6.044,0,0,0,85.1,37.411v-22.7a2.735,2.735,0,0,0-.474-1.985Z" transform="translate(-53.1 -11.412)" fill="#0fd89e" fill-rule="evenodd"/>
+      <path id="Path_78" d="M17.762,17.211H29.345L35.055,11.5H16.148a6.044,6.044,0,0,0-6.028,6.027V40.634A2.85,2.85,0,0,0,15.035,42.6h.008l11.07-11.07L22.076,27.5l-6.243,6.243V19.146a1.942,1.942,0,0,1,1.937-1.937Z" transform="translate(-10.12 -11.488)" fill="#0140ff" fill-rule="evenodd"/>
+    </g>
+    <text id="alterhr" transform="translate(2212.591 -116.593)" fill="#1e1e1e" font-size="32" font-family="AquireBold, Aquire"><tspan x="0" y="0">ALTER</tspan><tspan y="0" fill="#0140ff">HR</tspan></text>
+  </g>
+</svg>

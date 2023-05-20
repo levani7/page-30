@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#root {
+  font-family: "BPG Banner Caps", sans-serif;
+  /* font-size: 25px; */
+
+}
+.fontSize {
+  font-size: 25px;
+}
+.alterhr {
+  
+}
+#root {
+
+  /* Colors: */
+  --unnamed-color-f5f6fa: #F5F6FA;
+  --unnamed-color-38cb89: #38CB89;
+  --unnamed-color-377dff: #377DFF;
+  --unnamed-color-6f767e: #6F767E;
+  --unnamed-color-c4c4c4: #C4C4C4;
+  --unnamed-color-333333: #333333;
+  
+  /* Font/text values */
+  --unnamed-font-family-tbc-contractica-caps: TBC Contractica CAPS;
+  --unnamed-font-style-normal: normal;
+  --unnamed-font-weight-900: 900px;
+  --unnamed-font-weight-bold: bold;
+  --unnamed-font-size-12: 12px;
+  --unnamed-font-size-16: 16px;
+  --unnamed-font-size-18: 18px;
+  --unnamed-font-size-22: 22px;
+  --unnamed-character-spacing-0: 0px;
+  --unnamed-line-spacing-15: 15px;
+  --unnamed-line-spacing-19: 19px;
+  --unnamed-line-spacing-21: 21px;
+  --unnamed-line-spacing-27: 27px;
+  }
+  
+  /* Character Styles */
+  .unnamed-character-style-1 {
+  font-family: var(--unnamed-font-family-tbc-contractica-caps);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-18);
+  line-height: var(--unnamed-line-spacing-21);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-c4c4c4);
+  }
+  .unnamed-character-style-2 {
+  font-family: var(--unnamed-font-family-tbc-contractica-caps);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-900);
+  font-size: var(--unnamed-font-size-22);
+  line-height: var(--unnamed-line-spacing-27);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-333333);
+  }
+  .unnamed-character-style-3 {
+  font-family: var(--unnamed-font-family-tbc-contractica-caps);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-16);
+  line-height: var(--unnamed-line-spacing-19);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-6f767e);
+  }
+  .unnamed-character-style-4 {
+  font-family: var(--unnamed-font-family-tbc-contractica-caps);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-900);
+  font-size: var(--unnamed-font-size-16);
+  line-height: var(--unnamed-line-spacing-19);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-333333);
+  }
+  .unnamed-character-style-5 {
+  font-family: var(--unnamed-font-family-tbc-contractica-caps);
+  font-style: var(--unnamed-font-style-normal);
+  font-weight: var(--unnamed-font-weight-bold);
+  font-size: var(--unnamed-font-size-12);
+  line-height: var(--unnamed-line-spacing-15);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-6f767e);
+  }

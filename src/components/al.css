@@ -1,0 +1,22 @@
+.special {
+    /* Add your special styles here */
+    font-size: 4.2rem;
+    color: white
+  }
+.specialStyle {
+  font-size: 4.2rem;
+  color: white
+}
+/* .navbar-link {
+  font-size: 4.2rem;
+  color: white
+} */
+.font {
+  font-family: "BPG Banner Caps", sans-serif;
+  
+}
+.navbar-link-no-hover:hover {
+  background-color: transparent;
+  color: inherit;
+  cursor: auto;
+}
